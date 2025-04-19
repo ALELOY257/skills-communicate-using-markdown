@@ -10,3 +10,6 @@ import requests
 import pandas
 import numpy
 ```
+
+- [ ] Finish course
+- [ ] Update Github portfolio
